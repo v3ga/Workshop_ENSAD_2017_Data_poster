@@ -64,9 +64,9 @@ Exemple (non exhaustif) de représentations :
 
 ### Librairies
 * [Rita](https://rednoise.org/rita/) — provides tools for artists and writers working with natural language in programmable media.
-* [SQLibrary](https://github.com/fjenett/sql-library-processing) - a SQL database library for Processing
+* [SQLibrary](https://github.com/fjenett/sql-library-processing) — a SQL database library for Processing
 * [Treemap](http://benfry.com/writing/treemap/)
-* [Carnivore](http://r-s-g.org/carnivore/) - Surveillance tool for data networks.
+* [Carnivore](http://r-s-g.org/carnivore/) — Surveillance tool for data networks.
 * [Text to speech](http://www.frontiernerds.com/text-to-speech-in-processing) (MacOS seuleument)
 
 ## Ressources
