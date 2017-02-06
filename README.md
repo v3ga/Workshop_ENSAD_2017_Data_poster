@@ -82,7 +82,7 @@ Exemple (non exhaustif) de représentations :
 ### Références «Dataviz»
 * [Visual Complexity](http://www.visualcomplexity.com/vc/) — mapping patterns of information
 * [The book of trees](http://www.bookoftrees.info/bt/) — visualizing branches of knowledge
-* [Earth](earth.nullschool.net) — a visualization of global weather conditions (jeux de données sur la page [about](https://earth.nullschool.net/about.html))
+* [Earth](http://earth.nullschool.net) — a visualization of global weather conditions (jeux de données sur la page [about](https://earth.nullschool.net/about.html))
 * [Klarna Data Wall](http://onformative.com/work/klarna-data-wall) — Onformative
 * [Phantom terrains](http://phantomterrains.com/) — visualisation d'ondes magnétiques « invisibles »
 * [Obamathon](https://medium.com/@itpnyu/itps-obamathon-2e74b1bef9e9#.n2l3jeca1) — projet à l'ITP New-York
