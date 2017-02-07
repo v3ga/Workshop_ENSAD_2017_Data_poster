@@ -1,0 +1,5638 @@
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 22:05:52 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828364042012090368",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828364042012090368,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 434,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/466874708298694656/MM_7k8px_normal.jpeg",
+      "listed_count": 229,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 41447,
+      "description": "",
+      "created_at": "Thu May 15 09:19:30 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "PhilosopheParis",
+      "id_str": "2495992548",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 2495992548,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/466874708298694656/MM_7k8px_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2495992548/1400147111",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 90471,
+      "follow_request_sent": false,
+      "followers_count": 497,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Parisien Philosophe",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 19:01:48 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://linkis.com\" rel=\"nofollow\">Put your button on any page! <\/a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828317720110309377",
+    "in_reply_to_user_id": null,
+    "favorite_count": 1,
+    "id": 828317720110309377,
+    "text": "4 millions de tracts #ChasseALHomme imprimés - combien de distribués ? - et voilà cette \"indiscrétion\" @VSDmag ! https://t.co/Oi6UxFfr0D",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [{
+        "display_url": "ln.is/www.vsd.fr/les\u2026",
+        "indices": [
+          113,
+          136
+        ],
+        "expanded_url": "http://ln.is/www.vsd.fr/les-indis/mZUyb",
+        "url": "https://t.co/Oi6UxFfr0D"
+      }],
+      "hashtags": [{
+        "indices": [
+          21,
+          35
+        ],
+        "text": "ChasseALHomme"
+      }],
+      "user_mentions": [{
+        "indices": [
+          103,
+          110
+        ],
+        "screen_name": "VSDmag",
+        "id_str": "1005973765",
+        "name": "VSD",
+        "id": 1005973765
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": 3600,
+      "friends_count": 1507,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/544576612164194304/mby7O6Fx_normal.jpeg",
+      "listed_count": 215,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 71849,
+      "description": "J'ai voulu changer la vie, la vie m'a changé. Alors j'ai changé de vie. Avant d'être de droite, j'ai été de gauche : je vous assure que ça se soigne très bien.",
+      "created_at": "Tue Oct 05 14:22:19 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "protected": false,
+      "screen_name": "JackdEliz",
+      "id_str": "198890039",
+      "profile_link_color": "038543",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 198890039,
+      "geo_enabled": false,
+      "profile_background_color": "ACDED6",
+      "lang": "fr",
+      "has_extended_profile": true,
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/544576612164194304/mby7O6Fx_normal.jpeg",
+      "time_zone": "Paris",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/198890039/1415550226",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 105305,
+      "follow_request_sent": false,
+      "followers_count": 2289,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": false,
+      "name": "Jacques M. #MerciNS",
+      "location": "",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 17:24:20 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "coordinates": null,
+      "created_at": "Wed Feb 01 11:38:41 +0000 2017",
+      "truncated": false,
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+      "retweet_count": 2,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              7
+            ],
+            "text": "Fillon"
+          },
+          {
+            "indices": [
+              18,
+              26
+            ],
+            "text": "victime"
+          },
+          {
+            "indices": [
+              33,
+              47
+            ],
+            "text": "chasseàlhomme"
+          },
+          {
+            "indices": [
+              57,
+              64
+            ],
+            "text": "pourri"
+          },
+          {
+            "indices": [
+              66,
+              72
+            ],
+            "text": "point"
+          },
+          {
+            "indices": [
+              75,
+              81
+            ],
+            "text": "Merci"
+          },
+          {
+            "indices": [
+              93,
+              106
+            ],
+            "text": "journalistes"
+          },
+          {
+            "indices": [
+              132,
+              137
+            ],
+            "text": "yeux"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "id_str": "826756655635390464",
+      "in_reply_to_user_id": null,
+      "favorite_count": 2,
+      "id": 826756655635390464,
+      "text": "#Fillon n'est pas #victime d'une #chasseàlhomme ! Il est #pourri, #point ! #Merci à certains #journalistes de nous avoir ouvert les #yeux !",
+      "place": null,
+      "contributors": null,
+      "lang": "fr",
+      "user": {
+        "utc_offset": null,
+        "friends_count": 18,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643022674399227904/YFPrthcO_normal.jpg",
+        "listed_count": 172,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 5,
+        "description": "",
+        "created_at": "Sun Sep 13 11:18:45 +0000 2015",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Suricate_92",
+        "id_str": "3641576836",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 3641576836,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643022674399227904/YFPrthcO_normal.jpg",
+        "time_zone": null,
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 1400,
+        "follow_request_sent": false,
+        "followers_count": 44,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "Le Suricate",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      },
+      "favorited": false
+    },
+    "retweet_count": 2,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828293191497564160",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828293191497564160,
+    "text": "RT @Suricate_92: #Fillon n'est pas #victime d'une #chasseàlhomme ! Il est #pourri, #point ! #Merci à certains #journalistes de nous avoir o\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            24
+          ],
+          "text": "Fillon"
+        },
+        {
+          "indices": [
+            35,
+            43
+          ],
+          "text": "victime"
+        },
+        {
+          "indices": [
+            50,
+            64
+          ],
+          "text": "chasseàlhomme"
+        },
+        {
+          "indices": [
+            74,
+            81
+          ],
+          "text": "pourri"
+        },
+        {
+          "indices": [
+            83,
+            89
+          ],
+          "text": "point"
+        },
+        {
+          "indices": [
+            92,
+            98
+          ],
+          "text": "Merci"
+        },
+        {
+          "indices": [
+            110,
+            123
+          ],
+          "text": "journalistes"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          15
+        ],
+        "screen_name": "Suricate_92",
+        "id_str": "3641576836",
+        "name": "Le Suricate",
+        "id": 3641576836
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 278,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/706106102648279041/zoKqrGRb_normal.jpg",
+      "listed_count": 6,
+      "profile_background_image_url": null,
+      "default_profile_image": false,
+      "favourites_count": 1017,
+      "description": "",
+      "created_at": "Thu Mar 03 19:24:38 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": null,
+      "protected": false,
+      "screen_name": "Thierry3737",
+      "id_str": "705473977054064641",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 705473977054064641,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "fr",
+      "has_extended_profile": true,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/706106102648279041/zoKqrGRb_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 1818,
+      "follow_request_sent": false,
+      "followers_count": 59,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "thierry3737",
+      "location": "Indre et loire",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 15:11:34 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828259781039226881",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828259781039226881,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": -28800,
+      "friends_count": 614,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/800027232047603713/Uu_T-jyh_normal.jpg",
+      "listed_count": 39,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 309,
+      "description": "La Grandeur de la FRANCE ETERNELLE ne la mutilons pas #LIBAN n'oubli jamais # QADISHAT ALOHO QADISHAT HAYELTONO #araméen #syriaque maronite",
+      "created_at": "Thu Mar 19 06:33:28 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "maronite001",
+      "id_str": "3096176128",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 3096176128,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/800027232047603713/Uu_T-jyh_normal.jpg",
+      "time_zone": "Pacific Time (US & Canada)",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3096176128/1444800192",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 9807,
+      "follow_request_sent": false,
+      "followers_count": 279,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "legrandcharles لبنان",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 14:46:04 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828253361782800385",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828253361782800385,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 148,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/484644225708212224/Xg78cxMp_normal.jpeg",
+      "listed_count": 15,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 943,
+      "description": "",
+      "created_at": "Tue Jul 12 16:55:00 +0000 2011",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "cedricall",
+      "id_str": "334141356",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 334141356,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/484644225708212224/Xg78cxMp_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334141356/1354489703",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 3787,
+      "follow_request_sent": false,
+      "followers_count": 115,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Deca ن ✏️",
+      "location": "St Nazaire",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 05 13:15:30 +0000 2017",
+    "truncated": false,
+    "in_reply_to_user_id_str": "492929953",
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone<\/a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": "FloPortelli",
+    "is_quote_status": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [{
+        "indices": [
+          40,
+          54
+        ],
+        "text": "ChasseàLHomme"
+      }],
+      "user_mentions": [{
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "FloPortelli",
+        "id_str": "492929953",
+        "name": "Florence Portelli",
+        "id": 492929953
+      }],
+      "symbols": []
+    },
+    "id_str": "828230569783865344",
+    "in_reply_to_user_id": 492929953,
+    "favorite_count": 0,
+    "id": 828230569783865344,
+    "text": "@FloPortelli. Pas vu de distri du tract #ChasseàLHomme au marché samedi. Votre ami SM doit plus être très motivé depuis qu'il a été recalé.",
+    "place": null,
+    "contributors": null,
+    "lang": "fr",
+    "user": {
+      "utc_offset": 3600,
+      "friends_count": 15,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796777585501933568/b9PLXW_I_normal.jpg",
+      "listed_count": 11,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 387,
+      "description": "Sereine quitte son jardin  pour faire son dernier voyage ce 10 novembre 2016.  \rMais son maître continuera à tweeter.",
+      "created_at": "Sun Dec 07 20:17:12 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "sereine95320",
+      "id_str": "2909800859",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 2909800859,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796777585501933568/b9PLXW_I_normal.jpg",
+      "time_zone": "Ljubljana",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 1571,
+      "follow_request_sent": false,
+      "followers_count": 31,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Francis B",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    },
+    "favorited": false
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 09:24:55 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828172541504192512",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828172541504192512,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 2148,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/650063674338615296/CexAe-zo_normal.jpg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 22334,
+      "description": "Resistenza !!Pauvre France Cathédrale NotreDame Strasbourg en 2015 , vit chez 2chats....soignante et résiste au cancer....rebelle  alsacienne",
+      "created_at": "Mon Mar 08 09:04:26 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "lucyvonne",
+      "id_str": "121048252",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 121048252,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/650063674338615296/CexAe-zo_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/121048252/1443822323",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 31829,
+      "follow_request_sent": false,
+      "followers_count": 1639,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Yvonne",
+      "location": "Alsace",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 09:21:47 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828171754979917826",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828171754979917826,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": 3600,
+      "friends_count": 784,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/672183396945235968/CDtxTYPr_normal.jpg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "default_profile_image": false,
+      "favourites_count": 72,
+      "description": "Small is beautiful\nL'information doit être libre afin que les hommes vivent en paix",
+      "created_at": "Fri Dec 14 14:35:05 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "protected": false,
+      "screen_name": "Aria_____",
+      "id_str": "1011268148",
+      "profile_link_color": "990000",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 1011268148,
+      "geo_enabled": true,
+      "profile_background_color": "EBEBEB",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/672183396945235968/CDtxTYPr_normal.jpg",
+      "time_zone": "Amsterdam",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1011268148/1421448534",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 6978,
+      "follow_request_sent": false,
+      "followers_count": 676,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": false,
+      "name": "Aria",
+      "location": "",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "notifications": false
+    }
+  },
+  {
+    "extended_entities": {"media": [{
+      "display_url": "pic.twitter.com/sAEd1hJ026",
+      "source_user_id": 239386207,
+      "type": "photo",
+      "media_url": "http://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+      "source_status_id": 827952211103727618,
+      "url": "https://t.co/sAEd1hJ026",
+      "indices": [
+        59,
+        82
+      ],
+      "sizes": {
+        "small": {
+          "w": 680,
+          "h": 477,
+          "resize": "fit"
+        },
+        "large": {
+          "w": 2048,
+          "h": 1436,
+          "resize": "fit"
+        },
+        "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+        },
+        "medium": {
+          "w": 1200,
+          "h": 841,
+          "resize": "fit"
+        }
+      },
+      "id_str": "827952194896924673",
+      "expanded_url": "https://twitter.com/Frizoudessins/status/827952211103727618/photo/1",
+      "source_status_id_str": "827952211103727618",
+      "media_url_https": "https://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+      "id": 827952194896924673,
+      "source_user_id_str": "239386207"
+    }]},
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "und"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 09:03:11 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "extended_entities": {"media": [{
+        "display_url": "pic.twitter.com/sAEd1hJ026",
+        "indices": [
+          40,
+          63
+        ],
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 477,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1436,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 841,
+            "resize": "fit"
+          }
+        },
+        "id_str": "827952194896924673",
+        "expanded_url": "https://twitter.com/Frizoudessins/status/827952211103727618/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+        "id": 827952194896924673,
+        "type": "photo",
+        "media_url": "http://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+        "url": "https://t.co/sAEd1hJ026"
+      }]},
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "und"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 18:49:24 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+      "retweet_count": 4,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827952211103727618",
+      "in_reply_to_user_id": null,
+      "favorite_count": 4,
+      "id": 827952211103727618,
+      "text": "Sus. #Fillon #FillonGate #ChasseALHomme https://t.co/sAEd1hJ026",
+      "place": null,
+      "lang": "und",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": false,
+      "entities": {
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              5,
+              12
+            ],
+            "text": "Fillon"
+          },
+          {
+            "indices": [
+              13,
+              24
+            ],
+            "text": "FillonGate"
+          },
+          {
+            "indices": [
+              25,
+              39
+            ],
+            "text": "ChasseALHomme"
+          }
+        ],
+        "media": [{
+          "display_url": "pic.twitter.com/sAEd1hJ026",
+          "indices": [
+            40,
+            63
+          ],
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 477,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1436,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 841,
+              "resize": "fit"
+            }
+          },
+          "id_str": "827952194896924673",
+          "expanded_url": "https://twitter.com/Frizoudessins/status/827952211103727618/photo/1",
+          "media_url_https": "https://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+          "id": 827952194896924673,
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+          "url": "https://t.co/sAEd1hJ026"
+        }],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 3600,
+        "friends_count": 605,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000720988607/1383cdf220f8f1a7d09e189271d1555b_normal.jpeg",
+        "listed_count": 22,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 27,
+        "description": "Dessinateur de presse, d\u2019humour et de BD pas tendre, mais pas méchant.",
+        "created_at": "Mon Jan 17 14:12:04 +0000 2011",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "Frizoudessins",
+        "id_str": "239386207",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 239386207,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000720988607/1383cdf220f8f1a7d09e189271d1555b_normal.jpeg",
+        "time_zone": "Paris",
+        "url": "https://t.co/5l0l3CHkQ1",
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239386207/1384089746",
+        "entities": {
+          "description": {"urls": []},
+          "url": {"urls": [{
+            "display_url": "facebook.com/pages/Lalbum-%\u2026",
+            "indices": [
+              0,
+              23
+            ],
+            "expanded_url": "https://www.facebook.com/pages/Lalbum-%C3%A0-crabouillages-de-Frizou/170842366285251",
+            "url": "https://t.co/5l0l3CHkQ1"
+          }]}
+        },
+        "statuses_count": 1706,
+        "follow_request_sent": false,
+        "followers_count": 765,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "FrizouLeCrabouilleur",
+        "location": "France",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 4,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828167072819605504",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828167072819605504,
+    "text": "RT @Frizoudessins: Sus. #Fillon #FillonGate #ChasseALHomme https://t.co/sAEd1hJ026",
+    "place": null,
+    "lang": "und",
+    "favorited": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            31
+          ],
+          "text": "Fillon"
+        },
+        {
+          "indices": [
+            32,
+            43
+          ],
+          "text": "FillonGate"
+        },
+        {
+          "indices": [
+            44,
+            58
+          ],
+          "text": "ChasseALHomme"
+        }
+      ],
+      "media": [{
+        "display_url": "pic.twitter.com/sAEd1hJ026",
+        "source_user_id": 239386207,
+        "type": "photo",
+        "media_url": "http://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+        "source_status_id": 827952211103727618,
+        "url": "https://t.co/sAEd1hJ026",
+        "indices": [
+          59,
+          82
+        ],
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 477,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1436,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 841,
+            "resize": "fit"
+          }
+        },
+        "id_str": "827952194896924673",
+        "expanded_url": "https://twitter.com/Frizoudessins/status/827952211103727618/photo/1",
+        "source_status_id_str": "827952211103727618",
+        "media_url_https": "https://pbs.twimg.com/media/C316InPWEAEoUj2.jpg",
+        "id": 827952194896924673,
+        "source_user_id_str": "239386207"
+      }],
+      "user_mentions": [{
+        "indices": [
+          3,
+          17
+        ],
+        "screen_name": "Frizoudessins",
+        "id_str": "239386207",
+        "name": "FrizouLeCrabouilleur",
+        "id": 239386207
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": 3600,
+      "friends_count": 510,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2486933376/kRAToahq_normal",
+      "listed_count": 3,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 15,
+      "description": "",
+      "created_at": "Thu Mar 25 10:39:58 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "genestia",
+      "id_str": "126283411",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 126283411,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2486933376/kRAToahq_normal",
+      "time_zone": "Paris",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 106,
+      "follow_request_sent": false,
+      "followers_count": 57,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Génestia Giachino",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": "828154862810562562",
+    "in_reply_to_status_id": 828154862810562562,
+    "coordinates": null,
+    "created_at": "Sun Feb 05 08:32:34 +0000 2017",
+    "truncated": false,
+    "in_reply_to_user_id_str": "562331544",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweet_count": 0,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": "mauricehouzard",
+    "is_quote_status": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [{
+        "indices": [
+          86,
+          100
+        ],
+        "text": "ChasseàLhomme"
+      }],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "screen_name": "mauricehouzard",
+          "id_str": "562331544",
+          "name": "MauriceMoïse Houzard",
+          "id": 562331544
+        },
+        {
+          "indices": [
+            16,
+            32
+          ],
+          "screen_name": "montreuilcitiz1",
+          "id_str": "3336398117",
+          "name": "Citizen Montreuil",
+          "id": 3336398117
+        },
+        {
+          "indices": [
+            33,
+            48
+          ],
+          "screen_name": "alexiscorbiere",
+          "id_str": "266215308",
+          "name": "Corbiere Alexis",
+          "id": 266215308
+        }
+      ],
+      "symbols": []
+    },
+    "id_str": "828159369871187968",
+    "in_reply_to_user_id": 562331544,
+    "favorite_count": 0,
+    "id": 828159369871187968,
+    "text": "@mauricehouzard @montreuilcitiz1 @alexiscorbiere aujourd'hui  distribution des tracts #ChasseàLhomme, Maurice ?",
+    "place": {
+      "country_code": "FR",
+      "country": "France",
+      "contained_within": [],
+      "full_name": "Montreuil, France",
+      "bounding_box": {
+        "coordinates": [[
+          [
+            2.4153292,
+            48.8487612
+          ],
+          [
+            2.4826468,
+            48.8487612
+          ],
+          [
+            2.4826468,
+            48.8786458
+          ],
+          [
+            2.4153292,
+            48.8786458
+          ]
+        ]],
+        "type": "Polygon"
+      },
+      "place_type": "city",
+      "name": "Montreuil",
+      "attributes": {},
+      "id": "78b12dcc2bb6ea4d",
+      "url": "https://api.twitter.com/1.1/geo/id/78b12dcc2bb6ea4d.json"
+    },
+    "contributors": null,
+    "lang": "fr",
+    "user": {
+      "utc_offset": 3600,
+      "friends_count": 1935,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/735566136713072640/q6SETk3U_normal.jpg",
+      "listed_count": 148,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 7985,
+      "description": "Bibliothécaire Ecolo des villes né dans les champs. #Montreuil #Bagnolet Zones Franches #Planpourlalégalisation tous-montreuil.fr",
+      "created_at": "Wed Apr 23 08:09:40 +0000 2008",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "yannigg",
+      "id_str": "14488923",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 14488923,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/735566136713072640/q6SETk3U_normal.jpg",
+      "time_zone": "Paris",
+      "url": "https://t.co/9tylNVnrEv",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14488923/1484983310",
+      "entities": {
+        "description": {"urls": []},
+        "url": {"urls": [{
+          "display_url": "tous-montreuil.fr",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://www.tous-montreuil.fr/",
+          "url": "https://t.co/9tylNVnrEv"
+        }]}
+      },
+      "statuses_count": 29776,
+      "follow_request_sent": false,
+      "followers_count": 1073,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "yannigg",
+      "location": "Montreuil Neuf Cube",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    },
+    "favorited": false
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 07:48:02 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828148161977917440",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828148161977917440,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 216,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/825641192457134080/7Pqw2jFz_normal.jpg",
+      "listed_count": 1,
+      "profile_background_image_url": null,
+      "default_profile_image": false,
+      "favourites_count": 764,
+      "description": "Institutions Journalistes Politique Actualités Humour",
+      "created_at": "Tue Feb 23 20:00:31 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": null,
+      "protected": false,
+      "screen_name": "jeff_terret",
+      "id_str": "702221517376069632",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 702221517376069632,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "fr",
+      "has_extended_profile": true,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/825641192457134080/7Pqw2jFz_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/702221517376069632/1485683237",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 714,
+      "follow_request_sent": false,
+      "followers_count": 51,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Jeff",
+      "location": "Vaucluse, Provence-Alpes-Côte d'Azur",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 07:26:31 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828142745134968832",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828142745134968832,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": -36000,
+      "friends_count": 1347,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/520487395045953536/T0o88-Lh_normal.jpeg",
+      "listed_count": 56,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 10816,
+      "description": "Je pense donc je suis ça ne veut rien dire. Nous ça fait 5000 ans qu'on pense et nous n'existons toujours pas. Je me défends donc je suis ! Herbert PAGANI",
+      "created_at": "Sun Jun 29 09:05:00 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "EmmanuelHaimSNE",
+      "id_str": "2652722733",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "regular",
+      "id": 2652722733,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/520487395045953536/T0o88-Lh_normal.jpeg",
+      "time_zone": "Hawaii",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2652722733/1413930634",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 17718,
+      "follow_request_sent": false,
+      "followers_count": 894,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Emmanuel-Haim Sné ن",
+      "location": "FRANCE / SARFAT",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 06:58:00 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828135569251241984",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828135569251241984,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 311,
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+      "listed_count": 28,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": true,
+      "favourites_count": 778,
+      "description": "",
+      "created_at": "Mon Nov 16 22:11:25 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "armafemice",
+      "id_str": "4205113156",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 4205113156,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 3002,
+      "follow_request_sent": false,
+      "followers_count": 84,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Marfelemi",
+      "location": "Lyon, France",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sun Feb 05 02:15:35 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828064498128928768",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828064498128928768,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": -28800,
+      "friends_count": 382,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/806780109734580228/C6EOW97U_normal.jpg",
+      "listed_count": 40,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 5189,
+      "description": "Il est temps de reprendre les affaires",
+      "created_at": "Fri Sep 06 00:28:48 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ClovisChMartel",
+      "id_str": "1733504264",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 1733504264,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/806780109734580228/C6EOW97U_normal.jpg",
+      "time_zone": "Pacific Time (US & Canada)",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733504264/1470649194",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 5637,
+      "follow_request_sent": false,
+      "followers_count": 178,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Alternance...",
+      "location": "France",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 23:29:14 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828022633518219266",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828022633518219266,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 309,
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+      "listed_count": 1,
+      "profile_background_image_url": null,
+      "default_profile_image": true,
+      "favourites_count": 252,
+      "description": "Droite fière- #bottagedecul2017 pro sarko anti FNgauchiste\n#merciNS",
+      "created_at": "Sat Nov 19 07:40:16 +0000 2016",
+      "is_translator": false,
+      "profile_background_image_url_https": null,
+      "protected": false,
+      "screen_name": "jUllll17",
+      "id_str": "799879952426532864",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 799879952426532864,
+      "geo_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "lang": "fr",
+      "has_extended_profile": true,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 412,
+      "follow_request_sent": false,
+      "followers_count": 42,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Jull",
+      "location": "Ile-de-France, France",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 23:26:56 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828022056126132225",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828022056126132225,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 41,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/427890927269847040/APTkus1C_normal.jpeg",
+      "listed_count": 19,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 64,
+      "description": "",
+      "created_at": "Sun Jan 26 08:57:34 +0000 2014",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "DambricourtMarc",
+      "id_str": "2311528111",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 2311528111,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/427890927269847040/APTkus1C_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2311528111/1391718682",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 2226,
+      "follow_request_sent": false,
+      "followers_count": 65,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Dambricourt Marc",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:56:45 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828014460803575808",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828014460803575808,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 4996,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/807612847513620480/RSzPO_29_normal.jpg",
+      "listed_count": 84,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 67337,
+      "description": "Issu de poussières d'étoiles, je pense... Joueur d'échecs. #IStandWithIsraël #SoutienPolice #Guaino2017 \n               Droite Française Républicaine\n#DFR",
+      "created_at": "Fri May 15 19:13:28 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "eric_guillaumin",
+      "id_str": "3257725203",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 3257725203,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/807612847513620480/RSzPO_29_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3257725203/1479678782",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 99637,
+      "follow_request_sent": false,
+      "followers_count": 4085,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "(((Eric Guillaumin",
+      "location": "Je suis d'ailleurs...",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:54:13 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828013823315607552",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828013823315607552,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": -28800,
+      "friends_count": 404,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/737181682818777088/SiEHHOjq_normal.jpg",
+      "listed_count": 81,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 2280,
+      "description": "I swear by my life, and my love of it, that I will never live for the sake of another man, nor ask another man to live for mine. Ayn Rand, Atlas Shrugged",
+      "created_at": "Thu Jul 30 16:28:06 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "BoludoXXL",
+      "id_str": "61529939",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 61529939,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/737181682818777088/SiEHHOjq_normal.jpg",
+      "time_zone": "Pacific Time (US & Canada)",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/61529939/1465836051",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 19775,
+      "follow_request_sent": false,
+      "followers_count": 253,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "BoludoXXL",
+      "location": "Moscou, Russie",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:51:02 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828013019779198976",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828013019779198976,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 110,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/819848448644182016/YxvujY3g_normal.jpg",
+      "listed_count": 3,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1356,
+      "description": "Maman de 4 enfants Athée, aimant la musique, le graphisme, la lecture, la nature, la cuisine...",
+      "created_at": "Wed Jan 11 17:11:29 +0000 2017",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Louise130135",
+      "id_str": "819230260067704832",
+      "profile_link_color": "1B95E0",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 819230260067704832,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "fr",
+      "has_extended_profile": true,
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/819848448644182016/YxvujY3g_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 1199,
+      "follow_request_sent": false,
+      "followers_count": 55,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": false,
+      "name": "Louise 130135",
+      "location": "Bouches-du-Rhône",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:45:57 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828011741493731328",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828011741493731328,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": 7200,
+      "friends_count": 3072,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811221766961963008/vY2zj-6__normal.png",
+      "listed_count": 212,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624864051726819328/f_nIDo7W.jpg",
+      "default_profile_image": false,
+      "favourites_count": 32651,
+      "description": "protégeons ce qui est le bien le plus précieux l'innocence des enfants. #MerciNS #néeLe1Janvier #PasDeFN #PasDePS",
+      "created_at": "Wed Dec 11 09:52:43 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624864051726819328/f_nIDo7W.jpg",
+      "protected": false,
+      "screen_name": "FranceMarie47",
+      "id_str": "2240514260",
+      "profile_link_color": "89C9FA",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 2240514260,
+      "geo_enabled": false,
+      "profile_background_color": "ACDED6",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811221766961963008/vY2zj-6__normal.png",
+      "time_zone": "Athens",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2240514260/1484925646",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 156006,
+      "follow_request_sent": false,
+      "followers_count": 5035,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": false,
+      "name": "margot ✡✝️Fillon2017",
+      "location": "",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:44:48 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828011453848383490",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828011453848383490,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": 7200,
+      "friends_count": 1462,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/553117323733639168/Ngw34-QF_normal.jpeg",
+      "listed_count": 23,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672150717/e809e665f40ef90a2464879e85acb082.jpeg",
+      "default_profile_image": false,
+      "favourites_count": 15834,
+      "description": "Michel ن   Suivez-moi, je follow back.. ou non. Suivi par @monombre depuis toujours.  je ne lâche rien jusqu'en 2017.",
+      "created_at": "Tue Sep 04 16:52:57 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672150717/e809e665f40ef90a2464879e85acb082.jpeg",
+      "protected": false,
+      "screen_name": "My_gMB",
+      "id_str": "802792604",
+      "profile_link_color": "2711ED",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 802792604,
+      "geo_enabled": false,
+      "profile_background_color": "CC199C",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/553117323733639168/Ngw34-QF_normal.jpeg",
+      "time_zone": "Athens",
+      "url": "https://t.co/Fs0o0wmwdo",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/802792604/1355504228",
+      "entities": {
+        "description": {"urls": []},
+        "url": {"urls": [{
+          "display_url": "ensemblepourcolomiers.fr",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://ensemblepourcolomiers.fr",
+          "url": "https://t.co/Fs0o0wmwdo"
+        }]}
+      },
+      "statuses_count": 31505,
+      "follow_request_sent": false,
+      "followers_count": 1504,
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "following": false,
+      "name": "MyBن",
+      "location": "31",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:44:38 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828011409745256449",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828011409745256449,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 98,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/609425419306180608/XFFU-QtD_normal.jpg",
+      "listed_count": 64,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 1834,
+      "description": "entrepreneur, n'en pouvant plus de la bureaucratie, de la boboitude parisienne, regrettant chaqur jour la défaite de Raymond Barre en 1988.",
+      "created_at": "Tue Jun 18 19:45:53 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "lionel_r1234",
+      "id_str": "1528673612",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 1528673612,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/609425419306180608/XFFU-QtD_normal.jpg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 8233,
+      "follow_request_sent": false,
+      "followers_count": 287,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Lionel Roques",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:41:51 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828010709065818114",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828010709065818114,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 216,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/762707982299824128/qYRivPxj_normal.jpg",
+      "listed_count": 24,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 8336,
+      "description": "Arthur Rimbaud,  dessin d'humour,  chroniques mosellanes, église catholique",
+      "created_at": "Wed Aug 12 11:40:20 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "adevos21",
+      "id_str": "3417618273",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "regular",
+      "id": 3417618273,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "en",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/762707982299824128/qYRivPxj_normal.jpg",
+      "time_zone": null,
+      "url": "https://t.co/I3JhBwPqoo",
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3417618273/1470678934",
+      "entities": {
+        "description": {"urls": []},
+        "url": {"urls": [{
+          "display_url": "vudumont.com",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "http://www.vudumont.com",
+          "url": "https://t.co/I3JhBwPqoo"
+        }]}
+      },
+      "statuses_count": 4602,
+      "follow_request_sent": false,
+      "followers_count": 192,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Alain De Vos",
+      "location": "Metz",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:41:24 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828010595005894657",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828010595005894657,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 107,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000022973014/7525d6a4b3839c1e7b195ba7ae0cc083_normal.jpeg",
+      "listed_count": 0,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 70,
+      "description": "",
+      "created_at": "Fri Jun 21 00:06:38 +0000 2013",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "Kvcs64Kvcs",
+      "id_str": "1535337152",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 1535337152,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000022973014/7525d6a4b3839c1e7b195ba7ae0cc083_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 453,
+      "follow_request_sent": false,
+      "followers_count": 20,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Kvcs",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:40:01 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828010247193247745",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828010247193247745,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": 3600,
+      "friends_count": 3308,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/827357773356728320/LYX1mwjE_normal.jpg",
+      "listed_count": 182,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 11131,
+      "description": "Franco-Brit. Libertarian. le chemin de la prospérité, c'est celui où l'état vient pas foutre ses deux mains et ses 2 pieds dans mes poches. Anti-socialiste.",
+      "created_at": "Fri Feb 06 08:10:37 +0000 2009",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "ibi__patria",
+      "id_str": "20222688",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 20222688,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/827357773356728320/LYX1mwjE_normal.jpg",
+      "time_zone": "Paris",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20222688/1457694901",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 19287,
+      "follow_request_sent": false,
+      "followers_count": 1056,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Ze Ubi libertas",
+      "location": "Planet earth",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:38:18 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828009815632908288",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828009815632908288,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": -28800,
+      "friends_count": 747,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/554659916242120704/xn-WMJdK_normal.jpeg",
+      "listed_count": 33,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 195,
+      "description": "Je rtw ce qui m'intéresse, ne suis pas forcément dans le même club que les auteurs.",
+      "created_at": "Thu Jan 08 14:27:50 +0000 2015",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "FriouKerguelen",
+      "id_str": "2967869111",
+      "profile_link_color": "ABB8C2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 2967869111,
+      "geo_enabled": false,
+      "profile_background_color": "000000",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_text_color": "000000",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/554659916242120704/xn-WMJdK_normal.jpeg",
+      "time_zone": "Pacific Time (US & Canada)",
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2967869111/1449522860",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 11355,
+      "follow_request_sent": false,
+      "followers_count": 175,
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "following": false,
+      "name": "Kerguelen",
+      "location": "Paris ",
+      "profile_sidebar_fill_color": "000000",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:32:45 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828008417499422720",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828008417499422720,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 77,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/425238089288544256/6GbSwmL8_normal.png",
+      "listed_count": 8,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 651,
+      "description": "Pour que Marianne et Figaro restent toujours plus que des noms de mauvaise presse.",
+      "created_at": "Thu Oct 25 11:05:49 +0000 2012",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "SelenaGris",
+      "id_str": "903688399",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 903688399,
+      "geo_enabled": false,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/425238089288544256/6GbSwmL8_normal.png",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/903688399/1391293131",
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 792,
+      "follow_request_sent": false,
+      "followers_count": 43,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Selena VALENTINE",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  },
+  {
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "fr"
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Feb 04 22:29:53 +0000 2017",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "retweeted_status": {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "fr"
+      },
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_status_id": null,
+      "created_at": "Sat Feb 04 12:05:08 +0000 2017",
+      "in_reply_to_user_id_str": null,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+      "retweet_count": 65,
+      "retweeted": false,
+      "geo": null,
+      "in_reply_to_screen_name": null,
+      "is_quote_status": false,
+      "id_str": "827850475731038208",
+      "in_reply_to_user_id": null,
+      "favorite_count": 29,
+      "id": 827850475731038208,
+      "text": "L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate\u2026 https://t.co/mIymeO5ROx",
+      "place": null,
+      "lang": "fr",
+      "favorited": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "truncated": true,
+      "entities": {
+        "urls": [{
+          "display_url": "twitter.com/i/web/status/8\u2026",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/827850475731038208",
+          "url": "https://t.co/mIymeO5ROx"
+        }],
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              40
+            ],
+            "text": "ChasseALHomme"
+          },
+          {
+            "indices": [
+              100,
+              111
+            ],
+            "text": "MacronGate"
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "contributors": null,
+      "user": {
+        "utc_offset": 7200,
+        "friends_count": 442,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "listed_count": 26,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "default_profile_image": false,
+        "favourites_count": 621,
+        "description": "Adhérent LR ? Plus très sûr. #HollandeDégage ? Plus que jamais. #MerciNS sans vous rien n'aurait été possible !",
+        "created_at": "Fri Aug 17 10:24:53 +0000 2012",
+        "is_translator": false,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "protected": false,
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "profile_link_color": "1DA1F2",
+        "is_translation_enabled": false,
+        "translator_type": "none",
+        "id": 763446450,
+        "geo_enabled": false,
+        "profile_background_color": "C0DEED",
+        "lang": "fr",
+        "has_extended_profile": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_text_color": "333333",
+        "verified": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700259510640836608/SeIqcvqR_normal.jpg",
+        "time_zone": "Athens",
+        "url": null,
+        "contributors_enabled": false,
+        "profile_background_tile": false,
+        "entities": {"description": {"urls": []}},
+        "statuses_count": 10840,
+        "follow_request_sent": false,
+        "followers_count": 469,
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "following": false,
+        "name": "ن Herbert Tignac",
+        "location": "",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "notifications": false
+      }
+    },
+    "retweet_count": 65,
+    "retweeted": false,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "is_quote_status": false,
+    "id_str": "828007697484222464",
+    "in_reply_to_user_id": null,
+    "favorite_count": 0,
+    "id": 828007697484222464,
+    "text": "RT @SarkoFan: L'effet dévastateur de la #ChasseALHomme qui va plomber le budget de la France.On rigole moins, là! #MacronGate @FrancoisFill\u2026",
+    "place": null,
+    "lang": "fr",
+    "favorited": false,
+    "coordinates": null,
+    "truncated": false,
+    "entities": {
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "ChasseALHomme"
+        },
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "MacronGate"
+        }
+      ],
+      "user_mentions": [{
+        "indices": [
+          3,
+          12
+        ],
+        "screen_name": "SarkoFan",
+        "id_str": "763446450",
+        "name": "ن Herbert Tignac",
+        "id": 763446450
+      }],
+      "symbols": []
+    },
+    "contributors": null,
+    "user": {
+      "utc_offset": null,
+      "friends_count": 1818,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/536068404642611200/XUgLK5JX_normal.jpeg",
+      "listed_count": 213,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "favourites_count": 2344,
+      "description": "De D, c sûr! Sarkozyste de❤️pour le dynamisme, le franc parler et le charisme.Hélas, les électeurs en ont décidé autrement. Respectons le choix exprimé par NS.",
+      "created_at": "Sat Oct 09 17:05:07 +0000 2010",
+      "is_translator": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "protected": false,
+      "screen_name": "cemodf1",
+      "id_str": "200572368",
+      "profile_link_color": "1DA1F2",
+      "is_translation_enabled": false,
+      "translator_type": "none",
+      "id": 200572368,
+      "geo_enabled": true,
+      "profile_background_color": "C0DEED",
+      "lang": "fr",
+      "has_extended_profile": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_text_color": "333333",
+      "verified": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/536068404642611200/XUgLK5JX_normal.jpeg",
+      "time_zone": null,
+      "url": null,
+      "contributors_enabled": false,
+      "profile_background_tile": false,
+      "entities": {"description": {"urls": []}},
+      "statuses_count": 55032,
+      "follow_request_sent": false,
+      "followers_count": 1194,
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "following": false,
+      "name": "Michel Domec",
+      "location": "",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "notifications": false
+    }
+  }
+]
