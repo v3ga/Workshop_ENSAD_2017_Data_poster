@@ -19,10 +19,10 @@ Twitter twitter;
 void setup()
 {
   ConfigurationBuilder cb = new ConfigurationBuilder();
-  cb.setOAuthConsumerKey("*****YOUR-KEY-HERE******");
-  cb.setOAuthConsumerSecret("*************YOUR-KEY-HERE*************");
-  cb.setOAuthAccessToken("*************YOUR-KEY-HERE***************");
-  cb.setOAuthAccessTokenSecret("**********YOUR-KEY-HERE***************");
+  cb.setOAuthConsumerKey("ATkryfXkP1q348Rsx4ynF5reD");
+  cb.setOAuthConsumerSecret("aVBkbgMHODcYseDWeXGSKDJuVS5btb17QRhZRvMCHvzUdbgNke");
+  cb.setOAuthAccessToken("8675642-eyP2M9ZPgJR4ozsz3XWeYqVHhhM1e2wxFjopPIenj7");
+  cb.setOAuthAccessTokenSecret("QV4vsnK4mQE35DcZaggLY6r0t91Sijpv8p1cbeLbiYcou");
   
   TwitterFactory tf = new TwitterFactory(cb.build());
   twitter = tf.getInstance();
@@ -30,16 +30,20 @@ void setup()
 
   timerLoadData = new Timer(false);
   timerLoadData.scheduleAtFixedRate(new DataLoadTask(), 0, (long) periodLoadData*1000);
+  
+  size(800,600);
 }
 
 // ------------------------------------
 void draw()
 {
+  
 }
 
 // ------------------------------------
 void loadData()
 {
+  getNewTweets("#poutou");
 }
 
 // ------------------------------------
@@ -49,8 +53,15 @@ List<Status> getNewTweets(String searchString)
     try
     {
         Query query = new Query(searchString);
+        // query.setSinceId(828900908977242112L);
         QueryResult result = twitter.search(query);
         tweets = result.getTweets();
+        
+        for (Status status : tweets)
+        {
+          println("["+status.getId()+"] " + status.getText());
+        }
+        
     }
     catch (TwitterException te)
     {
