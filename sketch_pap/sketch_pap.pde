@@ -13,10 +13,13 @@ Timer timerLoadData;
 float periodLoadData = 10.0;
 // Adresse pap
 String url = "http://www.pap.fr/annonce/locations-appartement-paris-75-g439-jusqu-a-800-euros";
+
 // Liste des annonces
 ArrayList<Annonce> annonces;
 int nbPages = 0;
 
+// Bloc mots
+ArrayList<BlocMot> blocMots;
 
 // ------------------------------------
 void setup()
@@ -26,17 +29,31 @@ void setup()
   
   annonces = new ArrayList<Annonce>();
   loadData();
+  createBlocMots("blocmots.json");
 
-  size(1024,768);
+  size(768,1280);
   noLoop();
+}
+
+// ------------------------------------
+void createBlocMots(String filename)
+{
+  blocMots = new ArrayList<BlocMot>();
+  JSONArray data = loadJSONArray(filename);
+  for (int i=0; i<data.size(); i++)
+  {
+    
+  }
 }
 
 // ------------------------------------
 void draw()
 {
-  background(255);
-  for (Annonce annonce : annonces)
+  background(0);
+/*  for (Annonce annonce : annonces)
     annonce.draw();
+*/
+  
 }
 
 
