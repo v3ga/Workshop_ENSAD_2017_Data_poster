@@ -45,10 +45,6 @@ class WatchDir extends Thread
           System.out.println(kind.name() + ": " + fileName);
           processFileCreated(fileName.toString());
         }
-        /*if (kind == ENTRY_MODIFY &&
-         fileName.toString().equals("DirectoryWatchDemo.java")) {
-         System.out.println("My source file has changed!!!");
-         }*/
       }
 
       boolean valid = key.reset();
