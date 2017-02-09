@@ -1,36 +1,39 @@
+
 // ------------------------------------
 import java.util.Timer;
 import java.util.TimerTask;
 import java.net.URLEncoder;
+import de.looksgood.ani.*;
+import de.looksgood.ani.easing.*;
+import rita.*;
 
 // ------------------------------------
-// Timer
-Timer timerLoadData;
-// Période
-float periodLoadData = 10.0;
 // Adresse Google
 String url = "http://google.com/complete/search?client=chrome&q=";
-// Termes séparés par des virgules
-String[] terms = new String[]{"montre", "moi"};
+// « Murs »
+ArrayList<Mur> murs;
+
+// Fonte
+PFont fonteMur; 
 
 // ------------------------------------
 void setup()
 {
-  timerLoadData = new Timer(false);
-  timerLoadData.scheduleAtFixedRate(new DataLoadTask(), 0, (long) periodLoadData*1000);
+  Ani.init(this);
+  fonteMur = loadFont("Arial-Black-48.vlw");
+  murs = new ArrayList<Mur>();
+  murs.add( new Mur(0, width/2, new String[]{ "comment faire" }) );
+  for (Mur mur : murs)
+    mur.setup();
+  size(1600,1200);    
 }
 
 // ------------------------------------
 void draw()
 {
-}
-
-// ------------------------------------
-void loadData()
-{
-  JSONArray data = loadJSONArray( makeUrl( terms ) );
-  JSONArray suggests = data.getJSONArray(1);
-  println(suggests);
+  background(0);
+  for (Mur mur : murs)
+    mur.draw();
 }
 
 // ------------------------------------
@@ -40,25 +43,15 @@ String makeUrl(String[] terms)
   try
   {
     String sep = "";
-    for (int i=0; i< terms.length ; i++)
+    for (int i=0; i< terms.length; i++)
     {
       urlTerms+= (sep+URLEncoder.encode(terms[i], "UTF-8")  );            
-      sep = "+";    
+      sep = "+";
     }
-  } catch( Exception e )
+  } 
+  catch( Exception e )
   {
   }
 
-  return urlTerms; 
-}
-
-// ------------------------------------
-class DataLoadTask extends TimerTask
-{
-
-  public void run() 
-  {
-//    println("run called");
-    loadData();
-  }
+  return urlTerms;
 }
