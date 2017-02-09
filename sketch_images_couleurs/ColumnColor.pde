@@ -32,7 +32,7 @@ class ColumnColor extends WatchDir
     println(" - processing file '" + pathFile + "'");
 
     PImage img = loadImage(pathFile);
-    ArrayList hist = createHistogramFromImage(img.pixels, img.pixels.length, 0.1, true);    
+    ArrayList hist = createHistogramFromImage(img.pixels, img.pixels.length, COLUMN_TOLERANCE_COLORS, true);    
 
     int nbBlocks = min(hist.size(), COLUMN_NB_COLORS);
     float freqTotal = 0;
@@ -50,7 +50,6 @@ class ColumnColor extends WatchDir
       yFirstBlock -= hBlock;
       this.blocks.add( new ColumnBlock(e.col.toARGB(), this.x, yFirstBlock, this.w, hBlock) );
     }
-    //    yFirstBlock =- height;
   }
 
 

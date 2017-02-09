@@ -10,6 +10,7 @@ import static java.nio.file.StandardWatchEventKinds.*;
 boolean __DEBUG__ = true;
 float COLUMN_SPEED = 100;
 int COLUMN_NB_COLORS = 6;
+float COLUMN_TOLERANCE_COLORS = 0.1;
 
 
 // ------------------------------------
