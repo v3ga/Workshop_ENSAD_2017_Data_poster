@@ -2,17 +2,18 @@ class BlockMot
 {
   Mur mur;
   String txt;
-  float x, y, h;
+  float x, y, w, h;
   float alpha;
 
   // ------------------------------------
-  BlockMot(Mur mur_, String txt_, float y_, float h_)
+  BlockMot(Mur mur_, String txt_, float x_, float y_, float w_, float h_)
   {
     this.mur = mur_;
     this.txt = txt_;
     this.alpha = 0;
-    this.x = random(width);
+    this.x = x_;
     this.y = y_;
+    this.w = w_;
     this.h = h_;
   }
 
@@ -31,14 +32,10 @@ class BlockMot
   // ------------------------------------
   void draw()
   {
-    textFont(fonteMur);
-    float w = textWidth(this.txt);
-    if (x+w>=width)
-      x = width-w-20;
-    noStroke();
-    fill(#FFFFFF);
+     noStroke();
+    fill(#FFFFFF,alpha);
     rect(x,y,w,h);
-    fill(0);
-    text(txt,x,y+44);
+    fill(0,alpha);
+    text(txt,x,y+yFontBaseline);
   }
 }
