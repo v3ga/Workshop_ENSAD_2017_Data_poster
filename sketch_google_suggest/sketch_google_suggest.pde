@@ -29,6 +29,8 @@ SyphonServer server;
 // ------------------------------------
 void settings()
 {
+  size(1600,500,P3D);    
+  PJOGL.profile=1;
 }
 
 // ------------------------------------
@@ -47,7 +49,6 @@ void setup()
   murs.add( new Mur("it", color(0,0,255), 2*width/3, width/3, new String[]{ "comment", "jouer"}) );
   for (Mur mur : murs)
     mur.setup();
-  size(1600,500);    
 
   server = new SyphonServer(this, "Processing Syphon");
 }
