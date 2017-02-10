@@ -24,6 +24,12 @@ float yFontBaseline = 24;
 
 float scrollSpeed = 1.5;
 
+SyphonServer server;
+
+// ------------------------------------
+void settings()
+{
+}
 
 // ------------------------------------
 void setup()
@@ -43,6 +49,7 @@ void setup()
     mur.setup();
   size(1600,500);    
 
+  server = new SyphonServer(this, "Processing Syphon");
 }
 
 // ------------------------------------
@@ -51,6 +58,7 @@ void draw()
   background(0);
   for (Mur mur : murs)
     mur.draw();
+  server.sendScreen();
 }
 
 // ------------------------------------
