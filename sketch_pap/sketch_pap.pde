@@ -1,25 +1,18 @@
 // ------------------------------------
 // Lib : https://jsoup.org/
-import java.util.Timer;
-import java.util.TimerTask;
 import org.jsoup.*;
 import java.net.URLDecoder;
 import java.util.regex.*;
+import java.util.*;
 
 // ------------------------------------
-// Timer
-Timer timerLoadData;
-// Période
-float periodLoadData = 10.0;
-// Adresse pap
-String url = "http://www.pap.fr/annonce/locations-appartement-paris-75-g439-jusqu-a-800-euros";
+// Villes
+ArrayList<VilleData> villes;
+HashMap<Integer, PImage> blocs;
 
-// Liste des annonces
-ArrayList<Annonce> annonces;
-int nbPages = 0;
-
-// Bloc mots
-ArrayList<BlocMot> blocMots;
+PFont[] fontes;
+float vitesseText = 5;
+float hauteurBlock = 40;
 
 // ------------------------------------
 void setup()
@@ -27,86 +20,38 @@ void setup()
   // timerLoadData = new Timer(false);
   // timerLoadData.scheduleAtFixedRate(new DataLoadTask(), 0, (long) periodLoadData*1000);
   
-  annonces = new ArrayList<Annonce>();
-  loadData();
-  createBlocMots("blocmots.json");
+  fontes = new PFont[4];
 
-  size(768,1280);
-  noLoop();
+  fontes[0] = loadFont("Helvetica-Bold-140.vlw");
+  fontes[1] = loadFont("Helvetica-Bold-140.vlw");
+  fontes[2] = loadFont("Helvetica-Bold-140.vlw");
+  fontes[3] = loadFont("Helvetica-Bold-140.vlw");
+  
+  blocs = new HashMap<Integer, PImage>();
+  blocs.put( 9 , loadImage("9m2.png") );
+  blocs.put( 20 , loadImage("20m2.png") );
+  blocs.put( 30 , loadImage("30m2.png") );
+  blocs.put( 40 , loadImage("40m2.png") );
+  
+  
+  villes = new ArrayList<VilleData>();
+  villes.add( new VilleData("Paris",       "http://www.pap.fr/annonce/locations-appartement-paris-75-g439-jusqu-a-800-euros", 0, width/2));
+  villes.add( new VilleData("Marseille",    "http://www.pap.fr/annonce/locations-appartement-marseille-13-g12024-jusqu-a-800-euros", width/2, width/2));
+  
+  for (VilleData ville : villes)
+    ville.loadData();
+
+  size(1280, 768);
 }
 
-// ------------------------------------
-void createBlocMots(String filename)
-{
-  blocMots = new ArrayList<BlocMot>();
-  JSONArray data = loadJSONArray(filename);
-  for (int i=0; i<data.size(); i++)
-  {
-    
-  }
-}
 
 // ------------------------------------
 void draw()
 {
-  background(0);
-/*  for (Annonce annonce : annonces)
-    annonce.draw();
-*/
-  
-}
-
-
-// ------------------------------------
-void loadPage(int which)
-{
-  try
+  background(255);
+  for (VilleData ville : villes)
   {
-    Document doc = Jsoup.connect(url).get(); 
-
-    // Pagination    
-    Elements pagination = doc.select(".pagination ul li");
-    //    println( pagination.size()-1 );
-    nbPages = pagination.size() > 1 ? pagination.size()-1 : 1;
-
-    // Extract annonces from page
-    Elements results = doc.select(".search-results-item");
-    for (Element result : results)
-    {
-      Elements elmtTitle = result.select(".title-item .h1");
-      Elements elmtPrice = result.select(".title-item .price");
-      Elements elmtDesc = result.select(".box-body .item-description");
-      
-      if (elmtTitle.size() == 1 && elmtPrice.size() == 1 )
-      {
-         println( " - title = " + Jsoup.parse(elmtTitle.html()).text() + " / prix = " + Jsoup.parse(elmtPrice.html()).text() );
-         println( " - description = " + Jsoup.parse(elmtDesc.html()).text());
-        annonces.add( new Annonce(
-          Jsoup.parse(elmtTitle.html()).text(),
-          Jsoup.parse(elmtPrice.html()).text(),
-          Jsoup.parse(elmtDesc.html()).text()
-        ) );
-          
-      }
-    }
-  }
-  catch(Exception e)
-  {
-  }
-  
-}
-
-// ------------------------------------
-void loadData()
-{
-  loadPage(0);
-}
-
-// ------------------------------------
-class DataLoadTask extends TimerTask
-{
-  public void run() 
-  {
-    loadData();
+    ville.render();
+    ville.draw();
   }
 }
