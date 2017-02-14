@@ -24,9 +24,11 @@ class WatchDir extends Thread
   // ------------------------------------
   public void run()
   {
-    while (true) {
+    while (true) 
+    {
       WatchKey key;
-      try {
+      try 
+      {
         key = ws.take();
       } 
       catch (InterruptedException ex) {

@@ -23,9 +23,9 @@ void setup()
   fontes = new PFont[4];
 
   fontes[0] = loadFont("Helvetica-Bold-140.vlw");
-  fontes[1] = loadFont("Helvetica-Bold-140.vlw");
-  fontes[2] = loadFont("Helvetica-Bold-140.vlw");
-  fontes[3] = loadFont("Helvetica-Bold-140.vlw");
+  fontes[1] = loadFont("Courier-140.vlw");
+  fontes[2] = loadFont("Courier-140.vlw");
+  fontes[3] = loadFont("Courier-140.vlw");
   
   blocs = new HashMap<Integer, PImage>();
   blocs.put( 9 , loadImage("9m2.png") );
@@ -54,4 +54,5 @@ void draw()
     ville.render();
     ville.draw();
   }
+  
 }
