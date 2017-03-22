@@ -19,10 +19,10 @@ Twitter twitter;
 void setup()
 {
   ConfigurationBuilder cb = new ConfigurationBuilder();
-  cb.setOAuthConsumerKey("ATkryfXkP1q348Rsx4ynF5reD");
-  cb.setOAuthConsumerSecret("aVBkbgMHODcYseDWeXGSKDJuVS5btb17QRhZRvMCHvzUdbgNke");
-  cb.setOAuthAccessToken("8675642-eyP2M9ZPgJR4ozsz3XWeYqVHhhM1e2wxFjopPIenj7");
-  cb.setOAuthAccessTokenSecret("QV4vsnK4mQE35DcZaggLY6r0t91Sijpv8p1cbeLbiYcou");
+  cb.setOAuthConsumerKey("");
+  cb.setOAuthConsumerSecret("");
+  cb.setOAuthAccessToken("");
+  cb.setOAuthAccessTokenSecret("");
   
   TwitterFactory tf = new TwitterFactory(cb.build());
   twitter = tf.getInstance();

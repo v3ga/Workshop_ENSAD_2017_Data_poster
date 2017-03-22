@@ -4,7 +4,7 @@ import com.temboo.Library.Twitter.Search.*;
 
 // Objet de type TemboSession qui stocke les informations
 // relatives à l'application twitter
-TembooSession session = new TembooSession("v3ga", "myFirstApp", "UUQhVggaoLR70HS614VS100IY9MFbjyc");
+TembooSession session = new TembooSession("v3ga", "myFirstApp", "######");
 
 // Profil Twitter sur Temboo
 String twitterProfile = "ENSAD";
